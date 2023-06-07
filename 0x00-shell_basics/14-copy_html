@@ -1,2 +1,2 @@
 #!/bin/bash
-ls *.html | cp /root
+cp -un *.html  ../
