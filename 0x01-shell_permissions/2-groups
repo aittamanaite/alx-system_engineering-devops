@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 groups betty
+=======
+groups
+>>>>>>> 937211a3faef9b9b17e88aaedabca0ef29398999
