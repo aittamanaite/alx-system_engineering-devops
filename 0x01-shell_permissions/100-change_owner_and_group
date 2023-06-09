@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash 
 =======
 >>>>>>> a87c809aef75a60ca43641c6a49f6e662baf33e0
+=======
+#!/bin/bash
+>>>>>>> 7568200fc80bf351d3db755d1e6efae920fa2b5a
 chown vincent:staff *
