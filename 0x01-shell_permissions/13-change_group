@@ -1,2 +1,2 @@
 #!/bin/bash
-usermod  -g school hello
+chgrp school hello
