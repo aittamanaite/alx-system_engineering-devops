@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 #!/bin/bash 
+=======
+>>>>>>> a87c809aef75a60ca43641c6a49f6e662baf33e0
 chown vincent:staff *
